@@ -10,4 +10,8 @@ const clients = [
 
 function listClientsIds() {
   // return an array with the ids of the clients only
+  console.log("Hello World");
+  return [];
 };
+
+listClientsIds();
