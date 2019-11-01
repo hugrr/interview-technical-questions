@@ -8,5 +8,5 @@ const clients = [
 ];
 
 function listClientsIdsSortByTaxNumber() {
-    // array with the ids of the clients sorted by rout
+    // array with the ids of the clients sorted by taxNumber
 };

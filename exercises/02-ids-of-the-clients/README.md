@@ -1,1 +1,3 @@
-This are the instructions for exercise 1
+# 📝 Instructions
+
+Return an array with the ids of the clients only

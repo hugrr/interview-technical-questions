@@ -1,1 +1,0 @@
-These are the instructions for ecercise 2
