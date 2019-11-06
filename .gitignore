@@ -6,6 +6,7 @@
 !.gitpod.yml
 !.gitpod.Dockerfile
 !bc.json
+!.bc.json
 !README.md
 
 !/exercises
