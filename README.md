@@ -7,8 +7,7 @@
 </p>
 
 
-# Are you training to get hired as a developer?
-
+<strong>Are you training to get hired as a developer?</strong>
 At @4geeksAcademy we have been collecting interview questions from our student interviews inside this repo.
 
 ## Automatic Grading?
